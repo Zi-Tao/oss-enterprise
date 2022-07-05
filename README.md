@@ -21,3 +21,27 @@ Before you open source your project, consider the effort required to maintain it
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Create an open source program
+
+Step 1: [Establish preliminary goals](https://github.com/Zi-Tao/oss-enterprise/issues/1)
+
+Step 2: [Give your repository a README.md](https://github.com/Zi-Tao/oss-enterprise/pull/2)
+
+Step 3: [Give your kit contributing guidelines](https://github.com/Zi-Tao/oss-enterprise/pull/3)
+
+Step 4: [Provide a code of conduct](https://github.com/Zi-Tao/oss-enterprise/issues/4)
+
+Step 5: [Add communication guidelines](https://github.com/Zi-Tao/oss-enterprise/pull/6)
+
+Step 6: [Add checklists](https://github.com/Zi-Tao/oss-enterprise/pull/7)
+
+Step 7: [Add a maintainer's guide](https://github.com/Zi-Tao/oss-enterprise/pull/8)
+
+Step 8: [Add a license policy](https://github.com/Zi-Tao/oss-enterprise/pull/9)
+
+Step 9: [Provide guidance for consuming open source software](https://github.com/Zi-Tao/oss-enterprise/pull/10)
+
+Step 10: [Add a template README](https://github.com/Zi-Tao/oss-enterprise/pull/11)
